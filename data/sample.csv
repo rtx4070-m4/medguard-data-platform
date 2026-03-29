@@ -1,0 +1,5 @@
+
+patient_id,gender,age,notes
+1,M,45,Patient email john@example.com MRN-1234
+2,F,78,Call 555-123-4567
+3,M,60,Normal record

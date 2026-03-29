@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+pandas
+numpy
+faker
+regex
+matplotlib
+seaborn
+streamlit
+scikit-learn
+sqlalchemy
+psycopg2-binary
+fhirclient
+pytest
